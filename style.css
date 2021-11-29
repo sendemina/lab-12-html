@@ -1,0 +1,67 @@
+h1
+{
+  color: #008000; /* green color */
+  margin-left: 100px;
+  margin-right: 100px;
+  text-transform: uppercase;
+  padding: 20px;
+}
+
+/* change the paragraphs to blue*/
+p
+{
+  color: #0000FF;
+  font-size: 12px;
+}
+
+/* h1, h2
+{
+  background-color: #C373F5;
+  padding: 15px;
+} */
+
+*
+{
+  font-family: sans-serif;
+}
+
+h4
+{
+  background-color: #D66D3C; /* orange */
+  color: #F7D64F; /* yellow */
+  margin: 20px;
+  padding: 10px;
+}
+
+td > strong
+{
+  background-color: #D66D3C; /* orange */
+  color: #F7D64F; /* yellow */
+}
+
+/* add an ID selector for intro */
+#intro
+{
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+/* add a CLASS selector for spotlight */
+.spotlight
+{
+  background-color: #C373F5;
+}
+
+a:link
+{
+  color: blue;
+}
+a:visited
+{
+  color: green;
+}
+a:hover
+{
+  background-color: #D66D3C;
+}
