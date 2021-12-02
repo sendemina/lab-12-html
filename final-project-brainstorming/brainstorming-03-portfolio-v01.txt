@@ -1,0 +1,6 @@
+ This is my first semester in college and I'm studying Emerging Media Technology at City Tech.
+ I know some C# and I've made a few little projects in Unity game engine.
+ My dream job is to be a video game developer or a 3D animator. In 5 years, I see myself
+ with a completed bachelor's degree and hopefully employed in some game studio.
+
+ (include a poem and a link to a game, perhaps)
